@@ -4,9 +4,9 @@
 // {
 //     $conn_details = [
 //         "host" => "localhost",
-//         "user" => "removknv_santusfx",
-//         "password" => "removknv_santusfx",
-//         "database" => "removknv_santusfx",
+//         "user" => "u916687219_swiftpips",
+//         "password" => "u916687219_Swiftpips",
+//         "database" => "u916687219_swiftpips",
 //         "port" => "3308"
 //     ];
 
