@@ -615,7 +615,7 @@
                             </div>
                         </div>
                         <div class="testimonial-content">
-                            <p>I have been extremely pleased with swiftpipstraders platform, in terms of the number of products available for trading, ease and speed of use, as well as the reliability. Although many brokers offer great service, most offer only great excuses.</p>
+                            <p>I have been extremely pleased with Swiftpipstraders platform, in terms of the number of products available for trading, ease and speed of use, as well as the reliability. Although many brokers offer great service, most offer only great excuses.</p>
                         </div>
                         <i class="testimonial-quote fas fa-quote-right"></i>
                     </div>
@@ -627,7 +627,7 @@
                             </div>
                         </div>
                         <div class="testimonial-content">
-                            <p>Happy to have been referred to swiftpipstraders by a friend. It's very liberating to know that they are so professional at monitoring the system, executing the trades, and being helpful whenever I ask for additional info or assistance. All I have to do these days is look at my earnings grow.</p>
+                            <p>Happy to have been referred to Swiftpipstraders by a friend. It's very liberating to know that they are so professional at monitoring the system, executing the trades, and being helpful whenever I ask for additional info or assistance. All I have to do these days is look at my earnings grow.</p>
                         </div>
                         <i class="testimonial-quote fas fa-quote-right"></i>
                     </div>
@@ -893,7 +893,7 @@
     <?php require "./_partials/transaction_alerts.php" ?>
 
     <!-- livechat -->
-    <script src="//code.jivosite.com/widget/IRUyspoioH" async></script>
+    <script src="//code.tidio.co/ais6olazjjzosfnbfvqq0fpbelcr3vsw.js" async></script>
 
 </body>
 
