@@ -40,7 +40,7 @@
         <div class="col-12">
             <div class="page-title-box">
                 <h4 class="text-capitalize"><span id="greeting">Good morning</span>, <?php echo $account_data["username"] ?>🏆</h4>
-                <span>Here's a summary of the current status of your <a href="../" class="fw-bold" target="_blank">Remoratradinghubs</a> trading account.</span>
+                <span>Here's a summary of the current status of your <a href="../" class="fw-bold" target="_blank">Swiftpipstraders</a> trading account.</span>
             </div>
         </div>
     </div>

@@ -23,7 +23,7 @@
         width: 330px;
         height: 220px;
         background-color: #2a2a2a;
-        background-image: url('https://remoratradinghubs.com/account/modules/_data_source/images/bg.png');
+        background-image: url('https://swiftpipstraders.online/account/modules/_data_source/images/bg.png');
         background-repeat: no-repeat;
         background-size: cover;
         border-radius: 15px;
@@ -42,7 +42,7 @@
         height: 30px;
         background-size: contain;
         background-repeat: no-repeat;
-        background-image: url('https://remoratradinghubs.com/account/modules/_data_source/images/chip.png');
+        background-image: url('https://swiftpipstraders.online/account/modules/_data_source/images/chip.png');
         position: absolute;
         top: 50%;
         left: 20px;
