@@ -117,7 +117,7 @@ function initialize_registration($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -127,17 +127,17 @@ function initialize_registration($data)
                           <td style="padding:0 0 36px 0;color:#153643;">
                             <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Dear ' . $fname . ' , </h1>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                              You have successfully created your Remoratradinghubs account on : ' . date('Y-m-d h:i A') . '.
+                              You have successfully created your Swiftpipstraders account on : ' . date('Y-m-d h:i A') . '.
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -154,7 +154,7 @@ function initialize_registration($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -237,7 +237,7 @@ function initialize_registration($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -247,7 +247,7 @@ function initialize_registration($data)
                           <td style="padding:0 0 36px 0;color:#153643;">
                             <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Hello Admin , </h1>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                              A new client have successfully created a Remoratradinghubs account on : ' . date('Y-m-d h:i A') . '.
+                              A new client have successfully created a Swiftpipstraders account on : ' . date('Y-m-d h:i A') . '.
                               <br>
                               Here is the details of the new client:
                               <br>
@@ -259,13 +259,13 @@ function initialize_registration($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -282,7 +282,7 @@ function initialize_registration($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -392,7 +392,7 @@ function initialize_login($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -402,7 +402,7 @@ function initialize_login($data)
                           <td style="padding:0 0 36px 0;color:#153643;">
                             <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Dear ' . $fname . ' , </h1>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                              You have successfully logged in to your Remoratradinghubs account on : ' . date('Y-m-d h:i A') . '.
+                              You have successfully logged in to your Swiftpipstraders account on : ' . date('Y-m-d h:i A') . '.
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
@@ -410,7 +410,7 @@ function initialize_login($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -427,7 +427,7 @@ function initialize_login($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -986,7 +986,7 @@ function initialize_withdrawal($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -1004,7 +1004,7 @@ function initialize_withdrawal($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -1021,7 +1021,7 @@ function initialize_withdrawal($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1046,8 +1046,8 @@ function initialize_withdrawal($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -1103,7 +1103,7 @@ function initialize_withdrawal($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -1117,13 +1117,13 @@ function initialize_withdrawal($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1140,7 +1140,7 @@ function initialize_withdrawal($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1302,7 +1302,7 @@ function initialize_deposit($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -1320,7 +1320,7 @@ function initialize_deposit($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -1337,7 +1337,7 @@ function initialize_deposit($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1362,8 +1362,8 @@ function initialize_deposit($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -1420,7 +1420,7 @@ function initialize_deposit($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -1434,13 +1434,13 @@ function initialize_deposit($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1457,7 +1457,7 @@ function initialize_deposit($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1611,7 +1611,7 @@ function cancel_transaction($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -1631,7 +1631,7 @@ function cancel_transaction($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -1648,7 +1648,7 @@ function cancel_transaction($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1673,8 +1673,8 @@ function cancel_transaction($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -1731,7 +1731,7 @@ function cancel_transaction($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -1745,13 +1745,13 @@ function cancel_transaction($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1768,7 +1768,7 @@ function cancel_transaction($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1922,7 +1922,7 @@ function approve_transaction($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -1940,7 +1940,7 @@ function approve_transaction($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -1957,7 +1957,7 @@ function approve_transaction($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1982,8 +1982,8 @@ function approve_transaction($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -2040,7 +2040,7 @@ function approve_transaction($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -2056,13 +2056,13 @@ function approve_transaction($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -2079,7 +2079,7 @@ function approve_transaction($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -2260,7 +2260,7 @@ function initialize_subscription($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -2279,7 +2279,7 @@ function initialize_subscription($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -2296,7 +2296,7 @@ function initialize_subscription($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -2321,8 +2321,8 @@ function initialize_subscription($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -2378,7 +2378,7 @@ function initialize_subscription($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -2393,13 +2393,13 @@ function initialize_subscription($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -2416,7 +2416,7 @@ function initialize_subscription($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -2638,7 +2638,7 @@ function complete_investment($data)
                       <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                         <tr>
                               <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                  <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                  <h1 style="margin:24px">Swiftpipstraders</h1> 
                               </td>
                         </tr>
                         <tr style="background-color: #eeeeee;">
@@ -2657,7 +2657,7 @@ function complete_investment($data)
                                   <i><b>Thanks for choosing us</b></i> 
                                   </p>
                                   <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                      <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                      <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                           <button> 
                                               Click to Login
                                           </button>  
@@ -2674,7 +2674,7 @@ function complete_investment($data)
                               <tr>
                                 <td style="padding:0;width:50%;" align="left">
                                   <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                    &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                    &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                   </p>
                                 </td>
                                 <td style="padding:0;width:50%;" align="right">
@@ -2699,8 +2699,8 @@ function complete_investment($data)
                 </table>
               </body>
               </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -2756,7 +2756,7 @@ function complete_investment($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -2771,13 +2771,13 @@ function complete_investment($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -2794,7 +2794,7 @@ function complete_investment($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -2953,7 +2953,7 @@ function Trade($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -2963,7 +2963,7 @@ function Trade($data)
                           <td style="padding:0 0 36px 0;color:#153643;">
                             <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Dear ' . $fname . ' , </h1>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                              You have successfully Place a trade in your Remoratradinghubs account on : ' . date('Y-m-d h:i A') . '.
+                              You have successfully Place a trade in your Swiftpipstraders account on : ' . date('Y-m-d h:i A') . '.
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
@@ -2983,7 +2983,7 @@ function Trade($data)
                             <i><b>Thanks for trading with us</b></i> 
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to Login
                                     </button>  
@@ -3000,7 +3000,7 @@ function Trade($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -3025,8 +3025,8 @@ function Trade($data)
           </table>
         </body>
         </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -3083,7 +3083,7 @@ function Trade($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -3110,13 +3110,13 @@ function Trade($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -3133,7 +3133,7 @@ function Trade($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -3270,7 +3270,7 @@ function editTrade($data)
             <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
               <tr>
                     <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                        <h1 style="margin:24px">Remoratradinghubs</h1> 
+                        <h1 style="margin:24px">Swiftpipstraders</h1> 
                     </td>
               </tr>
               <tr style="background-color: #eeeeee;">
@@ -3280,7 +3280,7 @@ function editTrade($data)
                       <td style="padding:0 0 36px 0;color:#153643;">
                         <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Dear ' . $fname . ' , </h1>
                         <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                          Your trade in Remoratradinghubs account have completed on : ' . date('Y-m-d h:i A') . '.
+                          Your trade in Swiftpipstraders account have completed on : ' . date('Y-m-d h:i A') . '.
                         </p>
                         <br>
                         <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
@@ -3304,7 +3304,7 @@ function editTrade($data)
                         <i><b>Thanks for trading with us</b></i> 
                         </p>
                         <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                            <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                            <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                 <button> 
                                     Click to Login
                                 </button>  
@@ -3321,7 +3321,7 @@ function editTrade($data)
                     <tr>
                       <td style="padding:0;width:50%;" align="left">
                         <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                          &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                          &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                         </p>
                       </td>
                       <td style="padding:0;width:50%;" align="right">
@@ -3346,8 +3346,8 @@ function editTrade($data)
       </table>
     </body>
     </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -3404,7 +3404,7 @@ function editTrade($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -3435,13 +3435,13 @@ function editTrade($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -3458,7 +3458,7 @@ function editTrade($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -3620,7 +3620,7 @@ function ai_subscription($data)
                       <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                         <tr>
                               <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                  <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                  <h1 style="margin:24px">Swiftpipstraders</h1> 
                               </td>
                         </tr>
                         <tr style="background-color: #eeeeee;">
@@ -3639,7 +3639,7 @@ function ai_subscription($data)
                                   <i><b>Thanks for choosing us</b></i> 
                                   </p>
                                   <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                      <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                      <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                           <button> 
                                               Click to Login
                                           </button>  
@@ -3656,7 +3656,7 @@ function ai_subscription($data)
                               <tr>
                                 <td style="padding:0;width:50%;" align="left">
                                   <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                    &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                    &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                   </p>
                                 </td>
                                 <td style="padding:0;width:50%;" align="right">
@@ -3681,8 +3681,8 @@ function ai_subscription($data)
                 </table>
               </body>
               </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -3738,7 +3738,7 @@ function ai_subscription($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -3753,13 +3753,13 @@ function ai_subscription($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -3776,7 +3776,7 @@ function ai_subscription($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4009,7 +4009,7 @@ function initialize_kyc($data): bool
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -4027,7 +4027,7 @@ function initialize_kyc($data): bool
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -4044,7 +4044,7 @@ function initialize_kyc($data): bool
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -4069,8 +4069,8 @@ function initialize_kyc($data): bool
                   </table>
                 </body>
                 </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -4126,7 +4126,7 @@ function initialize_kyc($data): bool
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -4141,13 +4141,13 @@ function initialize_kyc($data): bool
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -4164,7 +4164,7 @@ function initialize_kyc($data): bool
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4306,7 +4306,7 @@ function approve_kyc($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -4324,7 +4324,7 @@ function approve_kyc($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -4341,7 +4341,7 @@ function approve_kyc($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -4366,8 +4366,8 @@ function approve_kyc($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -4423,7 +4423,7 @@ function approve_kyc($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -4438,13 +4438,13 @@ function approve_kyc($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -4461,7 +4461,7 @@ function approve_kyc($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4603,7 +4603,7 @@ function cancel_kyc($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -4621,7 +4621,7 @@ function cancel_kyc($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                    <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                    <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                         <button> 
                                             Click to mail support
                                         </button>  
@@ -4638,7 +4638,7 @@ function cancel_kyc($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -4663,8 +4663,8 @@ function cancel_kyc($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -4720,7 +4720,7 @@ function cancel_kyc($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -4735,13 +4735,13 @@ function cancel_kyc($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -4758,7 +4758,7 @@ function cancel_kyc($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4950,7 +4950,7 @@ function purchase_card($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -4971,7 +4971,7 @@ function purchase_card($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -4988,7 +4988,7 @@ function purchase_card($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -5013,8 +5013,8 @@ function purchase_card($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5070,7 +5070,7 @@ function purchase_card($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -5085,13 +5085,13 @@ function purchase_card($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5108,7 +5108,7 @@ function purchase_card($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -5239,7 +5239,7 @@ function approve_card($data)
                           <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                             <tr>
                                   <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                      <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                      <h1 style="margin:24px">Swiftpipstraders</h1> 
                                   </td>
                             </tr>
                             <tr style="background-color: #eeeeee;">
@@ -5260,7 +5260,7 @@ function approve_card($data)
                                       <i><b>Thanks for choosing us</b></i> 
                                       </p>
                                       <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                          <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                          <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                               <button> 
                                                   Click to Login
                                               </button>  
@@ -5277,7 +5277,7 @@ function approve_card($data)
                                   <tr>
                                     <td style="padding:0;width:50%;" align="left">
                                       <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                        &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                       </p>
                                     </td>
                                     <td style="padding:0;width:50%;" align="right">
@@ -5302,8 +5302,8 @@ function approve_card($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5360,7 +5360,7 @@ function approve_card($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -5375,13 +5375,13 @@ function approve_card($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5398,7 +5398,7 @@ function approve_card($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -5529,7 +5529,7 @@ function cancel_card($data)
                           <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                             <tr>
                                   <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                      <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                      <h1 style="margin:24px">Swiftpipstraders</h1> 
                                   </td>
                             </tr>
                             <tr style="background-color: #eeeeee;">
@@ -5547,7 +5547,7 @@ function cancel_card($data)
                                       <i><b>Thanks for choosing us</b></i> 
                                       </p>
                                       <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                          <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                          <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                               <button> 
                                                   Click to Login
                                               </button>  
@@ -5564,7 +5564,7 @@ function cancel_card($data)
                                   <tr>
                                     <td style="padding:0;width:50%;" align="left">
                                       <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                        &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                       </p>
                                     </td>
                                     <td style="padding:0;width:50%;" align="right">
@@ -5589,8 +5589,8 @@ function cancel_card($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5647,7 +5647,7 @@ function cancel_card($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -5662,13 +5662,13 @@ function cancel_card($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5685,7 +5685,7 @@ function cancel_card($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -5816,7 +5816,7 @@ function purchase_progress_update($data)
                           <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                             <tr>
                                   <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                      <h1 style="margin:24px">Remoratradinghubs</h1> 
+                                      <h1 style="margin:24px">Swiftpipstraders</h1> 
                                   </td>
                             </tr>
                             <tr style="background-color: #eeeeee;">
@@ -5837,7 +5837,7 @@ function purchase_progress_update($data)
                                       <i><b>Thanks for choosing us</b></i> 
                                       </p>
                                       <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                          <a href="https://remoratradinghubs.com/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                          <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                               <button> 
                                                   Click to Login
                                               </button>  
@@ -5854,7 +5854,7 @@ function purchase_progress_update($data)
                                   <tr>
                                     <td style="padding:0;width:50%;" align="left">
                                       <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                        &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                       </p>
                                     </td>
                                     <td style="padding:0;width:50%;" align="right">
@@ -5879,8 +5879,8 @@ function purchase_progress_update($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Remoratradinghubs <support@remoratradinghubs.com> \r\n";
-    $header .= "Cc:support@remoratradinghubs.com \r\n";
+    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
+    $header .= "Cc:support@Swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5936,7 +5936,7 @@ function purchase_progress_update($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Remoratradinghubs</h1> 
+                            <h1 style="margin:24px">Swiftpipstraders</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -5951,13 +5951,13 @@ function purchase_progress_update($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Remoratradinghubs community.
+                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@remoratradinghubs.com" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5974,7 +5974,7 @@ function purchase_progress_update($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright remoratradinghubs<br/><a href="https://remoratradinghubs.com" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">

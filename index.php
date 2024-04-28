@@ -9,7 +9,7 @@
 
     <meta property="og:image" content="assets/images/hero-bg.jpg" />
 
-    <meta property="og:title" content="Digital trading | Create your investment portfolio | Remoratradinghubs.com" />
+    <meta property="og:title" content="Digital trading | Create your investment portfolio | swiftpipstraders.online" />
 
     <meta property="og:description" content="We are the most outstanding digital assets trading broker." />
 
@@ -848,7 +848,7 @@
                             </div>
                             <div class="contact-address-content">
                                 <h3>Email</h3>
-                                <span><a href="mailto:support@remoratradinghubs.com">support@remoratradinghubs.com</a></span>
+                                <span><a href="mailto:support@swiftpipstraders.online">support@swiftpipstraders.online</a></span>
                             </div>
                         </div>
                         <div class="contact-address-wrap">

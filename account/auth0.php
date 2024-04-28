@@ -14,10 +14,10 @@ if (isset($_SESSION['authorized'])) {
 <head>
 
     <meta charset="utf-8" />
-    <title>Remoratradinghubs | Authentication</title>
+    <title>Swiftpipstraders | Authentication</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="Remoratradinghubs | Authentication" name="description" />
-    <meta content="Remoratradinghubs " name="author" />
+    <meta content="Swiftpipstraders | Authentication" name="description" />
+    <meta content="Swiftpipstraders " name="author" />
     <!-- App favicon -->
     <link rel="shortcut icon" href="./_vendors/images/favicon.ico">
     <!-- Bootstrap Css -->
@@ -37,7 +37,7 @@ if (isset($_SESSION['authorized'])) {
         <div class="container">
             <a href="../" class="center-img mt-n3 mt-md-0">
                 <img src="./_vendors/images/favicon.ico" class="mx-1" alt="Logo" style="width: 30px;">
-                <span>R̳e̳m̳o̳r̳a̳t̳r̳a̳d̳i̳n̳g̳h̳u̳b̳s̳</span>
+                <span>s̳w̳i̳f̳t̳p̳i̳p̳s̳t̳r̳a̳d̳e̳r̳s̳</span>
             </a>
             <div class="row justify-content-center mt-n3 mt-md-0">
 

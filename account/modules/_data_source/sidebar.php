@@ -148,7 +148,7 @@
                 </li>
 
                 <li>
-                    <a href="mailto:support@remoratradinghubs.com" class="waves-effect">
+                    <a href="mailto:support@Swiftpipstraders.online" class="waves-effect">
                         <i class="bx bx-mail-send"></i>
                         <span key="t-chat">Email Support</span>
                     </a>

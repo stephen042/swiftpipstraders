@@ -4,7 +4,7 @@
             <div class="col-sm-6">
                 <script>
                     document.write(new Date().getFullYear())
-                </script> © <a href="../">Remoratradinghubs</a>.
+                </script> © <a href="../">Swiftpipstraders</a>.
             </div>
         </div>
     </div>

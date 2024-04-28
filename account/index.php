@@ -32,10 +32,10 @@ if ($result->num_rows > 0) {
 <head>
 
     <meta charset="utf-8" />
-    <title>Remoratradinghubs | Dashboard</title>
+    <title>Swiftpipstraders | Dashboard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="Remoratradinghubs | Authentication" name="description" />
-    <meta content="Remoratradinghubs " name="author" />
+    <meta content="Swiftpipstraders | Authentication" name="description" />
+    <meta content="Swiftpipstraders " name="author" />
 
     <!-- Include styles module -->
     <?php include "./modules/_data_source/styles.php" ?>

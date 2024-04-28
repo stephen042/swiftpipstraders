@@ -4,7 +4,7 @@
             <div class="row">
                 <div class="col-xl-2 col-lg-2 col-sm-6 col-6">
                     <div class="logo text-left">
-                        <a href="./" class="text-white"><img src="./account/_vendors/images/favicon.ico" alt="Logo" style="width: 30px;"></a><span>R̳e̳m̳o̳r̳a̳t̳r̳a̳d̳i̳n̳g̳h̳u̳b̳s̳</span>
+                        <a href="./" class="text-white"><img src="./account/_vendors/images/favicon.ico" alt="Logo" style="width: 30px;"></a><span>s̳w̳i̳f̳t̳p̳i̳p̳s̳t̳r̳a̳d̳e̳r̳s̳</span>
                     </div>
                 </div>
                 <div class="col-xl-7 col-lg-7 col-sm-6 col-6">
@@ -15,7 +15,7 @@
                     </a>
                     <nav class="main-nav">
                         <div class="logo mobile-ham-logo d-lg-none d-block text-left">
-                            <a href="./" class="text-white"><img src="./account/_vendors/images/favicon.ico" alt="Logo" class="mx-1" style="width: 30px;"></a><span>R̳e̳m̳o̳r̳a̳t̳r̳a̳d̳i̳n̳g̳h̳u̳b̳s̳</span>
+                            <a href="./" class="text-white"><img src="./account/_vendors/images/favicon.ico" alt="Logo" class="mx-1" style="width: 30px;"></a><span>s̳w̳i̳f̳t̳p̳i̳p̳s̳t̳r̳a̳d̳e̳r̳s̳</span>
                         </div>
                         <ul>
                             <li><a href="./" class="active">Home</a></li>
