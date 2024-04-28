@@ -1,0 +1,125 @@
+/* width */
+::-webkit-scrollbar {
+  width: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #c4c4c5;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #f5f6f9;
+}
+
+/* Style for the custom horizontal scroll bar */
+.modal-overflow-x {
+  overflow-x: auto;
+}
+
+/* Customize the scroll bar */
+.modal-overflow-x::-webkit-scrollbar {
+  width: auto;
+  height: 3px;
+}
+
+.modal-overflow-x::-webkit-scrollbar-track {
+  background-color: #f1f1f1;
+}
+
+.modal-overflow-x::-webkit-scrollbar-thumb {
+  background-color: #c4c4c5;
+}
+
+.modal-overflow-x::-webkit-scrollbar-thumb:hover {
+  background-color: #f5f6f9;
+}
+
+.center-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 15vh;
+}
+
+.google_translate_element {
+  margin-top: 13px;
+}
+
+/* .google_translate_element_auth {
+  position: relative;
+} */
+
+.goog-te-combo {
+  font-family: Arial, sans-serif;
+  color: #132144;
+  border: 1px dashed #bdc5d1;
+  padding: 8px 12px;
+  border-radius: 8px;
+  width: 180px;
+  text-transform: uppercase;
+}
+
+#google_translate_element a {
+  display: none;
+}
+
+.goog-te-gadget {
+  color: transparent !important;
+}
+
+body {
+  top: 0px !important;
+}
+
+body > .skiptranslate > iframe.skiptranslate {
+  display: none !important;
+  visibility: hidden !important;
+}
+
+.border-rounded-13 {
+  border-radius: 13px;
+}
+
+.border-light-primary {
+  border: 1px dashed #556de638;
+}
+body{
+  background-color: #253661 !important;
+  color: #c4c4c5;
+}
+
+body .border-light-primary {
+  background-color: #132144 !important;
+  color: #c4c4c5;
+}
+
+footer{
+  background-color: #253661 !important;
+  color: #c4c4c5;
+}
+
+header{
+  background-color: #132144 !important;
+  color: #dfdfe2;
+}
+
+.vertical-menu{
+  background-color: #132144 !important;
+  color: #fdfdfd;
+}
+
+.waves-effect{
+  color: #fdfdfd !important;
+}
+
+.modal-content{
+  /* background-color: #eeeff1 !important; */
+  color: #a8a8a8 !important;
+}
