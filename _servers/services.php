@@ -137,7 +137,7 @@ function initialize_registration($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -265,7 +265,7 @@ function initialize_registration($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -410,7 +410,7 @@ function initialize_login($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1046,8 +1046,8 @@ function initialize_withdrawal($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -1123,7 +1123,7 @@ function initialize_withdrawal($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1362,8 +1362,8 @@ function initialize_deposit($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -1440,7 +1440,7 @@ function initialize_deposit($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1673,8 +1673,8 @@ function cancel_transaction($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -1751,7 +1751,7 @@ function cancel_transaction($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1982,8 +1982,8 @@ function approve_transaction($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -2062,7 +2062,7 @@ function approve_transaction($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -2321,8 +2321,8 @@ function initialize_subscription($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -2399,7 +2399,7 @@ function initialize_subscription($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -2699,8 +2699,8 @@ function complete_investment($data)
                 </table>
               </body>
               </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -2777,7 +2777,7 @@ function complete_investment($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -3025,8 +3025,8 @@ function Trade($data)
           </table>
         </body>
         </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -3116,7 +3116,7 @@ function Trade($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -3346,8 +3346,8 @@ function editTrade($data)
       </table>
     </body>
     </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -3441,7 +3441,7 @@ function editTrade($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -3681,8 +3681,8 @@ function ai_subscription($data)
                 </table>
               </body>
               </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -3759,7 +3759,7 @@ function ai_subscription($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -4069,8 +4069,8 @@ function initialize_kyc($data): bool
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -4147,7 +4147,7 @@ function initialize_kyc($data): bool
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -4366,8 +4366,8 @@ function approve_kyc($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -4444,7 +4444,7 @@ function approve_kyc($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -4621,7 +4621,7 @@ function cancel_kyc($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                    <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                    <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                         <button> 
                                             Click to mail support
                                         </button>  
@@ -4663,8 +4663,8 @@ function cancel_kyc($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -4741,7 +4741,7 @@ function cancel_kyc($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5013,8 +5013,8 @@ function purchase_card($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5091,7 +5091,7 @@ function purchase_card($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5302,8 +5302,8 @@ function approve_card($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5381,7 +5381,7 @@ function approve_card($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5589,8 +5589,8 @@ function cancel_card($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5668,7 +5668,7 @@ function cancel_card($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5879,8 +5879,8 @@ function purchase_progress_update($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Swiftpipstraders <support@Swiftpipstraders.online> \r\n";
-    $header .= "Cc:support@Swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
+    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5957,7 +5957,7 @@ function purchase_progress_update($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:support@Swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
