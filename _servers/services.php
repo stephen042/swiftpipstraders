@@ -137,7 +137,7 @@ function initialize_registration($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -154,7 +154,7 @@ function initialize_registration($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -265,7 +265,7 @@ function initialize_registration($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -282,7 +282,7 @@ function initialize_registration($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -410,7 +410,7 @@ function initialize_login($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -427,7 +427,7 @@ function initialize_login($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1004,7 +1004,7 @@ function initialize_withdrawal($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -1021,7 +1021,7 @@ function initialize_withdrawal($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1046,8 +1046,8 @@ function initialize_withdrawal($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -1123,7 +1123,7 @@ function initialize_withdrawal($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1140,7 +1140,7 @@ function initialize_withdrawal($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1320,7 +1320,7 @@ function initialize_deposit($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -1337,7 +1337,7 @@ function initialize_deposit($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1362,8 +1362,8 @@ function initialize_deposit($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -1440,7 +1440,7 @@ function initialize_deposit($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1457,7 +1457,7 @@ function initialize_deposit($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1631,7 +1631,7 @@ function cancel_transaction($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -1648,7 +1648,7 @@ function cancel_transaction($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1673,8 +1673,8 @@ function cancel_transaction($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -1751,7 +1751,7 @@ function cancel_transaction($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -1768,7 +1768,7 @@ function cancel_transaction($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1940,7 +1940,7 @@ function approve_transaction($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -1957,7 +1957,7 @@ function approve_transaction($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1982,8 +1982,8 @@ function approve_transaction($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -2062,7 +2062,7 @@ function approve_transaction($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -2079,7 +2079,7 @@ function approve_transaction($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -2279,7 +2279,7 @@ function initialize_subscription($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -2296,7 +2296,7 @@ function initialize_subscription($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -2321,8 +2321,8 @@ function initialize_subscription($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -2399,7 +2399,7 @@ function initialize_subscription($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -2416,7 +2416,7 @@ function initialize_subscription($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -2657,7 +2657,7 @@ function complete_investment($data)
                                   <i><b>Thanks for choosing us</b></i> 
                                   </p>
                                   <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                      <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                      <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                           <button> 
                                               Click to Login
                                           </button>  
@@ -2674,7 +2674,7 @@ function complete_investment($data)
                               <tr>
                                 <td style="padding:0;width:50%;" align="left">
                                   <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                    &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                    &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                   </p>
                                 </td>
                                 <td style="padding:0;width:50%;" align="right">
@@ -2699,8 +2699,8 @@ function complete_investment($data)
                 </table>
               </body>
               </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -2777,7 +2777,7 @@ function complete_investment($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -2794,7 +2794,7 @@ function complete_investment($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -2983,7 +2983,7 @@ function Trade($data)
                             <i><b>Thanks for trading with us</b></i> 
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to Login
                                     </button>  
@@ -3000,7 +3000,7 @@ function Trade($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -3025,8 +3025,8 @@ function Trade($data)
           </table>
         </body>
         </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -3116,7 +3116,7 @@ function Trade($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -3133,7 +3133,7 @@ function Trade($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -3304,7 +3304,7 @@ function editTrade($data)
                         <i><b>Thanks for trading with us</b></i> 
                         </p>
                         <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                            <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                            <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                 <button> 
                                     Click to Login
                                 </button>  
@@ -3321,7 +3321,7 @@ function editTrade($data)
                     <tr>
                       <td style="padding:0;width:50%;" align="left">
                         <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                          &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                          &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                         </p>
                       </td>
                       <td style="padding:0;width:50%;" align="right">
@@ -3346,8 +3346,8 @@ function editTrade($data)
       </table>
     </body>
     </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -3441,7 +3441,7 @@ function editTrade($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -3458,7 +3458,7 @@ function editTrade($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -3639,7 +3639,7 @@ function ai_subscription($data)
                                   <i><b>Thanks for choosing us</b></i> 
                                   </p>
                                   <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                      <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                      <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                           <button> 
                                               Click to Login
                                           </button>  
@@ -3656,7 +3656,7 @@ function ai_subscription($data)
                               <tr>
                                 <td style="padding:0;width:50%;" align="left">
                                   <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                    &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                    &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                   </p>
                                 </td>
                                 <td style="padding:0;width:50%;" align="right">
@@ -3681,8 +3681,8 @@ function ai_subscription($data)
                 </table>
               </body>
               </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -3759,7 +3759,7 @@ function ai_subscription($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -3776,7 +3776,7 @@ function ai_subscription($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4027,7 +4027,7 @@ function initialize_kyc($data): bool
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -4044,7 +4044,7 @@ function initialize_kyc($data): bool
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -4069,8 +4069,8 @@ function initialize_kyc($data): bool
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -4147,7 +4147,7 @@ function initialize_kyc($data): bool
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -4164,7 +4164,7 @@ function initialize_kyc($data): bool
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4324,7 +4324,7 @@ function approve_kyc($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -4341,7 +4341,7 @@ function approve_kyc($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -4366,8 +4366,8 @@ function approve_kyc($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -4444,7 +4444,7 @@ function approve_kyc($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -4461,7 +4461,7 @@ function approve_kyc($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4621,7 +4621,7 @@ function cancel_kyc($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                    <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                    <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                         <button> 
                                             Click to mail support
                                         </button>  
@@ -4638,7 +4638,7 @@ function cancel_kyc($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -4663,8 +4663,8 @@ function cancel_kyc($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -4741,7 +4741,7 @@ function cancel_kyc($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -4758,7 +4758,7 @@ function cancel_kyc($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4971,7 +4971,7 @@ function purchase_card($data)
                                     <i><b>Thanks for choosing us</b></i> 
                                     </p>
                                     <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                        <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                        <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                             <button> 
                                                 Click to Login
                                             </button>  
@@ -4988,7 +4988,7 @@ function purchase_card($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -5013,8 +5013,8 @@ function purchase_card($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5091,7 +5091,7 @@ function purchase_card($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5108,7 +5108,7 @@ function purchase_card($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -5260,7 +5260,7 @@ function approve_card($data)
                                       <i><b>Thanks for choosing us</b></i> 
                                       </p>
                                       <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                          <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                          <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                               <button> 
                                                   Click to Login
                                               </button>  
@@ -5277,7 +5277,7 @@ function approve_card($data)
                                   <tr>
                                     <td style="padding:0;width:50%;" align="left">
                                       <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                       </p>
                                     </td>
                                     <td style="padding:0;width:50%;" align="right">
@@ -5302,8 +5302,8 @@ function approve_card($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5381,7 +5381,7 @@ function approve_card($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5398,7 +5398,7 @@ function approve_card($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -5547,7 +5547,7 @@ function cancel_card($data)
                                       <i><b>Thanks for choosing us</b></i> 
                                       </p>
                                       <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                          <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                          <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                               <button> 
                                                   Click to Login
                                               </button>  
@@ -5564,7 +5564,7 @@ function cancel_card($data)
                                   <tr>
                                     <td style="padding:0;width:50%;" align="left">
                                       <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                       </p>
                                     </td>
                                     <td style="padding:0;width:50%;" align="right">
@@ -5589,8 +5589,8 @@ function cancel_card($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5668,7 +5668,7 @@ function cancel_card($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5685,7 +5685,7 @@ function cancel_card($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -5837,7 +5837,7 @@ function purchase_progress_update($data)
                                       <i><b>Thanks for choosing us</b></i> 
                                       </p>
                                       <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                          <a href="https://Swiftpipstraders.online/account" style="color:#ee4c50;text-decoration:underline;"> 
+                                          <a href="https://bitpips.online/account" style="color:#ee4c50;text-decoration:underline;"> 
                                               <button> 
                                                   Click to Login
                                               </button>  
@@ -5854,7 +5854,7 @@ function purchase_progress_update($data)
                                   <tr>
                                     <td style="padding:0;width:50%;" align="left">
                                       <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                       </p>
                                     </td>
                                     <td style="padding:0;width:50%;" align="right">
@@ -5879,8 +5879,8 @@ function purchase_progress_update($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Swiftpipstraders <no-reply@swiftpipstraders.online> \r\n";
-    $header .= "Cc:no-reply@swiftpipstraders.online \r\n";
+    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
 
@@ -5957,7 +5957,7 @@ function purchase_progress_update($data)
                               
                             </p>
                             <p style="margin:0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                                <a href="mailto:no-reply@swiftpipstraders.online" style="color:#ee4c50;text-decoration:underline;"> 
+                                <a href="mailto:no-reply@bitpips.online" style="color:#ee4c50;text-decoration:underline;"> 
                                     <button> 
                                         Click to mail support
                                     </button>  
@@ -5974,7 +5974,7 @@ function purchase_progress_update($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://Swiftpipstraders.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">

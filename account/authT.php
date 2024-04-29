@@ -17,10 +17,10 @@ $account_data = $datasources["investor_datasource"];
 <head>
 
     <meta charset="utf-8" />
-    <title>Swiftpipstraders | Dashboard</title>
+    <title>Bitpips | Dashboard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="Swiftpipstraders | Authentication" name="description" />
-    <meta content="Swiftpipstraders " name="author" />
+    <meta content="Bitpips | Authentication" name="description" />
+    <meta content="Bitpips " name="author" />
 
     <!-- Include styles module -->
     <?php include "./modules/_data_source/styles.php" ?>

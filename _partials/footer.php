@@ -42,7 +42,7 @@
                         <i class='bx bx-envelope-open'></i>
                     </div>
                     <div class="address-content">
-                        <span><a href="mailto:support@swiftpipstraders.online">support@swiftpipstraders.online</a></span>
+                        <span><a href="mailto:support@bitpips.online">support@bitpips.online</a></span>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                         <script>
                             document.write(new Date().getFullYear());
                         </script>
-                        All rights reserved | <a href="https://www.swiftpipstraders.online">Swiftpipstraders</a>
+                        All rights reserved | <a href="https://www.bitpips.online">Swiftpipstraders</a>
                     </p>
                 </div>
             </div>

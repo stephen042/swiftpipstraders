@@ -14,10 +14,10 @@ if (isset($_SESSION['authorized'])) {
 <head>
 
     <meta charset="utf-8" />
-    <title>Swiftpipstraders | Authentication</title>
+    <title>Bitpips | Authentication</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta content="Swiftpipstraders | Authentication" name="description" />
-    <meta content="Swiftpipstraders " name="author" />
+    <meta content="Bitpips | Authentication" name="description" />
+    <meta content="Bitpips " name="author" />
     <!-- App favicon -->
     <link rel="shortcut icon" href="./_vendors/images/favicon.ico">
     <!-- Bootstrap Css -->

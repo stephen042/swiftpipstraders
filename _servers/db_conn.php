@@ -4,9 +4,9 @@ function connect_to_database()
 {
     $conn_details = [
         "host" => "localhost",
-        "user" => "u916687219_swiftpips",
-        "password" => "u916687219_Swiftpips",
-        "database" => "u916687219_swiftpips",
+        "user" => "u119630305_bitpips",
+        "password" => "u119630305_Bitpips",
+        "database" => "u119630305_bitpips",
         "port" => "3308"
     ];
 
