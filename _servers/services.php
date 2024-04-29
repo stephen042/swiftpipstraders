@@ -117,7 +117,7 @@ function initialize_registration($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -127,11 +127,11 @@ function initialize_registration($data)
                           <td style="padding:0 0 36px 0;color:#153643;">
                             <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Dear ' . $fname . ' , </h1>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                              You have successfully created your Swiftpipstraders account on : ' . date('Y-m-d h:i A') . '.
+                              You have successfully created your Bitpips account on : ' . date('Y-m-d h:i A') . '.
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -154,7 +154,7 @@ function initialize_registration($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -237,7 +237,7 @@ function initialize_registration($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -247,7 +247,7 @@ function initialize_registration($data)
                           <td style="padding:0 0 36px 0;color:#153643;">
                             <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Hello Admin , </h1>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                              A new client have successfully created a Swiftpipstraders account on : ' . date('Y-m-d h:i A') . '.
+                              A new client have successfully created a Bitpips account on : ' . date('Y-m-d h:i A') . '.
                               <br>
                               Here is the details of the new client:
                               <br>
@@ -259,7 +259,7 @@ function initialize_registration($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -282,7 +282,7 @@ function initialize_registration($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -392,7 +392,7 @@ function initialize_login($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -402,7 +402,7 @@ function initialize_login($data)
                           <td style="padding:0 0 36px 0;color:#153643;">
                             <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Dear ' . $fname . ' , </h1>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                              You have successfully logged in to your Swiftpipstraders account on : ' . date('Y-m-d h:i A') . '.
+                              You have successfully logged in to your Bitpips account on : ' . date('Y-m-d h:i A') . '.
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
@@ -427,7 +427,7 @@ function initialize_login($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -986,7 +986,7 @@ function initialize_withdrawal($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                    <h1 style="margin:24px">Bitpips</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -1021,7 +1021,7 @@ function initialize_withdrawal($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1046,7 +1046,7 @@ function initialize_withdrawal($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -1103,7 +1103,7 @@ function initialize_withdrawal($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -1117,7 +1117,7 @@ function initialize_withdrawal($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -1140,7 +1140,7 @@ function initialize_withdrawal($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1302,7 +1302,7 @@ function initialize_deposit($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                    <h1 style="margin:24px">Bitpips</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -1337,7 +1337,7 @@ function initialize_deposit($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1362,7 +1362,7 @@ function initialize_deposit($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -1420,7 +1420,7 @@ function initialize_deposit($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -1434,7 +1434,7 @@ function initialize_deposit($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -1457,7 +1457,7 @@ function initialize_deposit($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1611,7 +1611,7 @@ function cancel_transaction($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                    <h1 style="margin:24px">Bitpips</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -1648,7 +1648,7 @@ function cancel_transaction($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1673,7 +1673,7 @@ function cancel_transaction($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -1731,7 +1731,7 @@ function cancel_transaction($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -1745,7 +1745,7 @@ function cancel_transaction($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -1768,7 +1768,7 @@ function cancel_transaction($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -1922,7 +1922,7 @@ function approve_transaction($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                    <h1 style="margin:24px">Bitpips</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -1957,7 +1957,7 @@ function approve_transaction($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -1982,7 +1982,7 @@ function approve_transaction($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -2040,7 +2040,7 @@ function approve_transaction($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -2056,7 +2056,7 @@ function approve_transaction($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -2079,7 +2079,7 @@ function approve_transaction($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -2260,7 +2260,7 @@ function initialize_subscription($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                    <h1 style="margin:24px">Bitpips</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -2296,7 +2296,7 @@ function initialize_subscription($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -2321,7 +2321,7 @@ function initialize_subscription($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -2378,7 +2378,7 @@ function initialize_subscription($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -2393,7 +2393,7 @@ function initialize_subscription($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -2416,7 +2416,7 @@ function initialize_subscription($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -2638,7 +2638,7 @@ function complete_investment($data)
                       <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                         <tr>
                               <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                  <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                  <h1 style="margin:24px">Bitpips</h1> 
                               </td>
                         </tr>
                         <tr style="background-color: #eeeeee;">
@@ -2674,7 +2674,7 @@ function complete_investment($data)
                               <tr>
                                 <td style="padding:0;width:50%;" align="left">
                                   <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                    &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                    &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                   </p>
                                 </td>
                                 <td style="padding:0;width:50%;" align="right">
@@ -2699,7 +2699,7 @@ function complete_investment($data)
                 </table>
               </body>
               </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -2756,7 +2756,7 @@ function complete_investment($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -2771,7 +2771,7 @@ function complete_investment($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -2794,7 +2794,7 @@ function complete_investment($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -2953,7 +2953,7 @@ function Trade($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -2963,7 +2963,7 @@ function Trade($data)
                           <td style="padding:0 0 36px 0;color:#153643;">
                             <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Dear ' . $fname . ' , </h1>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                              You have successfully Place a trade in your Swiftpipstraders account on : ' . date('Y-m-d h:i A') . '.
+                              You have successfully Place a trade in your Bitpips account on : ' . date('Y-m-d h:i A') . '.
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
@@ -3000,7 +3000,7 @@ function Trade($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -3025,7 +3025,7 @@ function Trade($data)
           </table>
         </body>
         </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -3083,7 +3083,7 @@ function Trade($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -3110,7 +3110,7 @@ function Trade($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -3133,7 +3133,7 @@ function Trade($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -3270,7 +3270,7 @@ function editTrade($data)
             <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
               <tr>
                     <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                        <h1 style="margin:24px">Swiftpipstraders</h1> 
+                        <h1 style="margin:24px">Bitpips</h1> 
                     </td>
               </tr>
               <tr style="background-color: #eeeeee;">
@@ -3280,7 +3280,7 @@ function editTrade($data)
                       <td style="padding:0 0 36px 0;color:#153643;">
                         <h1 style="font-size:24px;margin:0 0 20px 0;font-family:Arial,sans-serif;">Dear ' . $fname . ' , </h1>
                         <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                          Your trade in Swiftpipstraders account have completed on : ' . date('Y-m-d h:i A') . '.
+                          Your trade in Bitpips account have completed on : ' . date('Y-m-d h:i A') . '.
                         </p>
                         <br>
                         <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
@@ -3321,7 +3321,7 @@ function editTrade($data)
                     <tr>
                       <td style="padding:0;width:50%;" align="left">
                         <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                          &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                          &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                         </p>
                       </td>
                       <td style="padding:0;width:50%;" align="right">
@@ -3346,7 +3346,7 @@ function editTrade($data)
       </table>
     </body>
     </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -3404,7 +3404,7 @@ function editTrade($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -3435,7 +3435,7 @@ function editTrade($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -3458,7 +3458,7 @@ function editTrade($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -3620,7 +3620,7 @@ function ai_subscription($data)
                       <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                         <tr>
                               <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                  <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                  <h1 style="margin:24px">Bitpips</h1> 
                               </td>
                         </tr>
                         <tr style="background-color: #eeeeee;">
@@ -3656,7 +3656,7 @@ function ai_subscription($data)
                               <tr>
                                 <td style="padding:0;width:50%;" align="left">
                                   <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                    &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                    &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                   </p>
                                 </td>
                                 <td style="padding:0;width:50%;" align="right">
@@ -3681,7 +3681,7 @@ function ai_subscription($data)
                 </table>
               </body>
               </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -3738,7 +3738,7 @@ function ai_subscription($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -3753,7 +3753,7 @@ function ai_subscription($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -3776,7 +3776,7 @@ function ai_subscription($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4009,7 +4009,7 @@ function initialize_kyc($data): bool
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                    <h1 style="margin:24px">Bitpips</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -4044,7 +4044,7 @@ function initialize_kyc($data): bool
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -4069,7 +4069,7 @@ function initialize_kyc($data): bool
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -4126,7 +4126,7 @@ function initialize_kyc($data): bool
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -4141,7 +4141,7 @@ function initialize_kyc($data): bool
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -4164,7 +4164,7 @@ function initialize_kyc($data): bool
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4306,7 +4306,7 @@ function approve_kyc($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                    <h1 style="margin:24px">Bitpips</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -4341,7 +4341,7 @@ function approve_kyc($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -4366,7 +4366,7 @@ function approve_kyc($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -4423,7 +4423,7 @@ function approve_kyc($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -4438,7 +4438,7 @@ function approve_kyc($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -4461,7 +4461,7 @@ function approve_kyc($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4603,7 +4603,7 @@ function cancel_kyc($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                    <h1 style="margin:24px">Bitpips</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -4638,7 +4638,7 @@ function cancel_kyc($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -4663,7 +4663,7 @@ function cancel_kyc($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -4720,7 +4720,7 @@ function cancel_kyc($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -4735,7 +4735,7 @@ function cancel_kyc($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -4758,7 +4758,7 @@ function cancel_kyc($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -4950,7 +4950,7 @@ function purchase_card($data)
                         <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                           <tr>
                                 <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                    <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                    <h1 style="margin:24px">Bitpips</h1> 
                                 </td>
                           </tr>
                           <tr style="background-color: #eeeeee;">
@@ -4988,7 +4988,7 @@ function purchase_card($data)
                                 <tr>
                                   <td style="padding:0;width:50%;" align="left">
                                     <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                      &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                      &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                     </p>
                                   </td>
                                   <td style="padding:0;width:50%;" align="right">
@@ -5013,7 +5013,7 @@ function purchase_card($data)
                   </table>
                 </body>
                 </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -5070,7 +5070,7 @@ function purchase_card($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -5085,7 +5085,7 @@ function purchase_card($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -5108,7 +5108,7 @@ function purchase_card($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -5239,7 +5239,7 @@ function approve_card($data)
                           <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                             <tr>
                                   <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                      <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                      <h1 style="margin:24px">Bitpips</h1> 
                                   </td>
                             </tr>
                             <tr style="background-color: #eeeeee;">
@@ -5277,7 +5277,7 @@ function approve_card($data)
                                   <tr>
                                     <td style="padding:0;width:50%;" align="left">
                                       <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                        &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                       </p>
                                     </td>
                                     <td style="padding:0;width:50%;" align="right">
@@ -5302,7 +5302,7 @@ function approve_card($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -5360,7 +5360,7 @@ function approve_card($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -5375,7 +5375,7 @@ function approve_card($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -5398,7 +5398,7 @@ function approve_card($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -5529,7 +5529,7 @@ function cancel_card($data)
                           <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                             <tr>
                                   <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                      <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                      <h1 style="margin:24px">Bitpips</h1> 
                                   </td>
                             </tr>
                             <tr style="background-color: #eeeeee;">
@@ -5564,7 +5564,7 @@ function cancel_card($data)
                                   <tr>
                                     <td style="padding:0;width:50%;" align="left">
                                       <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                        &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                       </p>
                                     </td>
                                     <td style="padding:0;width:50%;" align="right">
@@ -5589,7 +5589,7 @@ function cancel_card($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -5647,7 +5647,7 @@ function cancel_card($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -5662,7 +5662,7 @@ function cancel_card($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -5685,7 +5685,7 @@ function cancel_card($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
@@ -5816,7 +5816,7 @@ function purchase_progress_update($data)
                           <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                             <tr>
                                   <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                                      <h1 style="margin:24px">Swiftpipstraders</h1> 
+                                      <h1 style="margin:24px">Bitpips</h1> 
                                   </td>
                             </tr>
                             <tr style="background-color: #eeeeee;">
@@ -5854,7 +5854,7 @@ function purchase_progress_update($data)
                                   <tr>
                                     <td style="padding:0;width:50%;" align="left">
                                       <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                                        &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                                        &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                                       </p>
                                     </td>
                                     <td style="padding:0;width:50%;" align="right">
@@ -5879,7 +5879,7 @@ function purchase_progress_update($data)
                     </table>
                   </body>
                   </html>';
-    $header = "From:Swiftpipstraders <no-reply@bitpips.online> \r\n";
+    $header = "From:Bitpips <no-reply@bitpips.online> \r\n";
     $header .= "Cc:no-reply@bitpips.online \r\n";
     $header .= "MIME-Version: 1.0\r\n";
     $header .= "Content-type: text/html\r\n";
@@ -5936,7 +5936,7 @@ function purchase_progress_update($data)
                 <table role="presentation" style="width:602px;border-collapse:collapse;border:1px solid #cccccc;border-spacing:0;text-align:left;">
                   <tr>
                         <td align="center" style="padding:20px 0 20px 0;background:#70bbd9; font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;font-size: 20px;margin: 10px;">
-                            <h1 style="margin:24px">Swiftpipstraders</h1> 
+                            <h1 style="margin:24px">Bitpips</h1> 
                         </td>
                   </tr>
                   <tr style="background-color: #eeeeee;">
@@ -5951,7 +5951,7 @@ function purchase_progress_update($data)
                             </p>
                             <br>
                             <p style="margin:0 0 12px 0;font-size:16px;line-height:24px;font-family:Arial,sans-serif;">
-                           Welcome aboard! We are thrilled to have you as part of our Swiftpipstraders community.
+                           Welcome aboard! We are thrilled to have you as part of our Bitpips community.
                            <br>
                            We are here to make your trading experience enjoyable and seamless.
                               
@@ -5974,7 +5974,7 @@ function purchase_progress_update($data)
                         <tr>
                           <td style="padding:0;width:50%;" align="left">
                             <p style="margin:0;font-size:14px;line-height:16px;font-family:Arial,sans-serif;color:#ffffff;">
-                              &reg; 2024 copyright Swiftpipstraders<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
+                              &reg; 2024 copyright Bitpips<br/><a href="https://bitpips.online" style="color:#ffffff;text-decoration:underline;">visit site</a>
                             </p>
                           </td>
                           <td style="padding:0;width:50%;" align="right">
