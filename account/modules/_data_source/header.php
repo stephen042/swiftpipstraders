@@ -9,7 +9,7 @@
                     </span>
                     <span class="logo-lg">
                         <img src="./_vendors/images/favicon.ico" alt="" class="" height="35">
-                        <span>B̲i̲t̲p̲i̲p̲s̲</span>
+                        <span>S̳w̳i̳f̳t̳p̳i̳p̳s̳t̳r̳a̳d̳e̳r̳s̳</span>
                     </span>
                 </a>
             </div>

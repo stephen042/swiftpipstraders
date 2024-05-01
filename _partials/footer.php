@@ -11,8 +11,8 @@
                         <div class="col-sm-12 col-12">
                             <div class="single-widget ">
                                 <div class="footer-logo">
-                                <a href="./" class="text-white"><img src="./account/_vendors/images/favicon.ico" class="mx-1" alt="Logo" style="width: 30px;"></a><span>B̲i̲t̲p̲i̲p̲s̲</span>
-                                    <p>Bitpips is an online digital assets Investment platform, which offers investors globally the opportunity to access high-growth investment opportunities in digital assets and other services. Elitefxmastes Advisors Corporation is an investment advisor registered with the Securities and Exchange Commission ("SEC"). Any reference to the advisory services refers to Elitefxmastes Advisors Corporation. Registration does not imply a certain level of skill or training nor does it imply endorsement by the SEC.​ Past performance is not a guarantee of future return, nor is it necessarily indicative of future performance. Keep in mind investing involves a certain level of risk. Have a great investment experience.</p>
+                                <a href="./" class="text-white"><img src="./account/_vendors/images/favicon.ico" class="mx-1" alt="Logo" style="width: 30px;"></a><span>S̳w̳i̳f̳t̳p̳i̳p̳s̳t̳r̳a̳d̳e̳r̳s̳</span>
+                                    <p>Swiftpipstraders is an online digital assets Investment platform, which offers investors globally the opportunity to access high-growth investment opportunities in digital assets and other services. Elitefxmastes Advisors Corporation is an investment advisor registered with the Securities and Exchange Commission ("SEC"). Any reference to the advisory services refers to Elitefxmastes Advisors Corporation. Registration does not imply a certain level of skill or training nor does it imply endorsement by the SEC.​ Past performance is not a guarantee of future return, nor is it necessarily indicative of future performance. Keep in mind investing involves a certain level of risk. Have a great investment experience.</p>
                                 </div>
                             </div>
                         </div>
@@ -42,7 +42,7 @@
                         <i class='bx bx-envelope-open'></i>
                     </div>
                     <div class="address-content">
-                        <span><a href="mailto:support@bitpips.online">support@bitpips.online</a></span>
+                        <span><a href="mailto:support@Swiftpipstraders.online">support@Swiftpipstraders.online</a></span>
                     </div>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                         <script>
                             document.write(new Date().getFullYear());
                         </script>
-                        All rights reserved | <a href="https://www.bitpips.online">Bitpips</a>
+                        All rights reserved | <a href="https://www.Swiftpipstraders.online">Swiftpipstraders</a>
                     </p>
                 </div>
             </div>

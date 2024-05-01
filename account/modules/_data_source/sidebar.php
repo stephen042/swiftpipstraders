@@ -148,7 +148,7 @@
                 </li>
 
                 <li>
-                    <a href="mailto:support@Bitpips.online" class="waves-effect">
+                    <a href="mailto:support@swiftpipstraders.online" class="waves-effect">
                         <i class="bx bx-mail-send"></i>
                         <span key="t-chat">Email Support</span>
                     </a>

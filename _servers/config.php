@@ -1,3 +1,3 @@
 <?php 
- define("ADMIN_EMAIL","support@bitpips.online");
- define("SITE_NAME","Bitpips.online");
+ define("ADMIN_EMAIL","support@swiftpipstraders.online");
+ define("SITE_NAME","Swiftpipstraders.online");

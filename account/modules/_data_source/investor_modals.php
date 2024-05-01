@@ -664,7 +664,7 @@
                                     <div class="chip">
                                     </div>
                                     <div class="logocard">
-                                        <img src="https://bitpips.online/account/modules/_data_source/images/logo.png">
+                                        <img src="https://swiftpipstraders.online/account/modules/_data_source/images/logo.png">
                                     </div>
                                     <div class="number">**** **** **** 5647 </div>
                                     <div class="info">
@@ -699,7 +699,7 @@
                                         <i class="bx bx-world"></i>
                                         Spend in over 150+ currencies
                                     </h4>
-                                    <p>Pay abroad easily with Bitpips Card</p>
+                                    <p>Pay abroad easily with Swiftpipstraders Card</p>
                                 </div>
                             </div>
                         </div>

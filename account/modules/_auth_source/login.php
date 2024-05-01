@@ -71,7 +71,7 @@
             <p>Don't have an account ? <a href="javascript:void(0);" class="fw-medium text-primary" onclick="toggleVisibility('registrationSection');"> Register</a> </p>
             <p>© <script>
                     document.write(new Date().getFullYear())
-                </script> <a href="../">Bitpips</a> - All rights reserved</p>
+                </script> <a href="../">S̳w̳i̳f̳t̳p̳i̳p̳s̳t̳r̳a̳d̳e̳r̳s̳</a> - All rights reserved</p>
         </div>
     </div>
 </div>
