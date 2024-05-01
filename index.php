@@ -9,7 +9,7 @@
 
     <meta property="og:image" content="assets/images/hero-bg.jpg" />
 
-    <meta property="og:title" content="Digital trading | Create your investment portfolio | bitpips.online" />
+    <meta property="og:title" content="Digital trading | Create your investment portfolio | swiftpipstraders.online" />
 
     <meta property="og:description" content="We are the most outstanding digital assets trading broker." />
 
@@ -17,7 +17,7 @@
 
     <meta property="og:image:height" content="630" />
 
-    <title>Bitpips | We are the most outstanding digital assets trading broker</title>
+    <title>swiftpipstraders | We are the most outstanding digital assets trading broker</title>
 
     <link rel="shortcut icon" type="image/x-icon" href="./account/_vendors/images/favicon.ico">
 
@@ -195,7 +195,7 @@
                                 </div>
                             </div>
                             <h2>We've got everything you need to boost your Finance...</h2>
-                            <p>Bitpips is an investment agency built with the aim of creating an extra source of passive income to it's users. Our plafirm is distict because our team has a creative, fearless and innovative spirit that is encouraged and challenged by disruption and invention. “Impossible” is not in our vocabulary. Impossible just takes time.</p>
+                            <p>Swiftpipstraders is an investment agency built with the aim of creating an extra source of passive income to it's users. Our plafirm is distict because our team has a creative, fearless and innovative spirit that is encouraged and challenged by disruption and invention. “Impossible” is not in our vocabulary. Impossible just takes time.</p>
                         </div>
                         <div class="about-experience row">
                             <div class="about-experience-left-content wow animate flipInX col-md-3" data-wow-delay="200ms" data-wow-duration="1500ms">
@@ -615,7 +615,7 @@
                             </div>
                         </div>
                         <div class="testimonial-content">
-                            <p>I have been extremely pleased with Bitpips platform, in terms of the number of products available for trading, ease and speed of use, as well as the reliability. Although many brokers offer great service, most offer only great excuses.</p>
+                            <p>I have been extremely pleased with Swiftpipstraders platform, in terms of the number of products available for trading, ease and speed of use, as well as the reliability. Although many brokers offer great service, most offer only great excuses.</p>
                         </div>
                         <i class="testimonial-quote fas fa-quote-right"></i>
                     </div>
@@ -627,7 +627,7 @@
                             </div>
                         </div>
                         <div class="testimonial-content">
-                            <p>Happy to have been referred to Bitpips by a friend. It's very liberating to know that they are so professional at monitoring the system, executing the trades, and being helpful whenever I ask for additional info or assistance. All I have to do these days is look at my earnings grow.</p>
+                            <p>Happy to have been referred to Swiftpipstraders by a friend. It's very liberating to know that they are so professional at monitoring the system, executing the trades, and being helpful whenever I ask for additional info or assistance. All I have to do these days is look at my earnings grow.</p>
                         </div>
                         <i class="testimonial-quote fas fa-quote-right"></i>
                     </div>
@@ -639,7 +639,7 @@
                             </div>
                         </div>
                         <div class="testimonial-content">
-                            <p>Bitpips has an excellent team of systematic trading professionals. They are very knowledgeable and provide our clients with outstanding execution and excellent customer service. We’re proud to feature them as one of our recommended brokers.</p>
+                            <p>Swiftpipstraders has an excellent team of systematic trading professionals. They are very knowledgeable and provide our clients with outstanding execution and excellent customer service. We’re proud to feature them as one of our recommended brokers.</p>
                         </div>
                         <i class="testimonial-quote fas fa-quote-right"></i>
                     </div>
@@ -662,12 +662,12 @@
                             <div class="accordion-item">
                                 <h2 class="accordion-header" id="headingOne">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        01. WHAT IS Bitpips?
+                                        01. WHAT IS Swiftpipstraders?
                                     </button>
                                 </h2>
                                 <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#accordionExample">
                                     <div class="accordion-body">
-                                        Bitpips is an online digital assets Investment platform, which offers investors globally the opportunity to access high-growth investment opportunities in digital assets and other services.
+                                        Swiftpipstraders is an online digital assets Investment platform, which offers investors globally the opportunity to access high-growth investment opportunities in digital assets and other services.
                                     </div>
                                 </div>
                             </div>
@@ -848,7 +848,7 @@
                             </div>
                             <div class="contact-address-content">
                                 <h3>Email</h3>
-                                <span><a href="mailto:support@bitpips.online">support@bitpips.online</a></span>
+                                <span><a href="mailto:support@swiftpipstraders.online">support@swiftpipstraders.online</a></span>
                             </div>
                         </div>
                         <div class="contact-address-wrap">
